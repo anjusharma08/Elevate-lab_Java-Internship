@@ -22,3 +22,36 @@ It uses:
    ```bash
    javac Task_1.java
    java Task_1
+-----------------------------------------------------------------------------------------------
+
+# Student Record Management System – Task 2
+
+This is my submission for **Task 2** of the Java Developer Internship.  
+It’s a simple **CLI-based CRUD application** for managing student records.
+
+---
+
+## 📚 Features
+- Add new student records (ID, Name, Marks)
+- View all student records
+- Update student details by ID
+- Delete student by ID
+- Menu-driven console application
+- Uses **Java Classes**, **ArrayList**, **Encapsulation**, **Loops**
+
+---
+
+## 🛠️ Technologies Used
+- Java (JDK 8 or above)
+- Scanner for input
+- ArrayList for storing data
+
+---
+
+## 🚀 How to Run
+
+1. Clone or download this repository.
+2. Open a terminal/command prompt in the project folder.
+3. Compile the code:
+   ```bash
+   javac Task_2.java
