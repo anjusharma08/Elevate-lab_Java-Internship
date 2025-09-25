@@ -55,3 +55,37 @@ It’s a simple **CLI-based CRUD application** for managing student records.
 3. Compile the code:
    ```bash
    javac Task_2.java
+
+
+   -----------------------------------------------------------------------------
+   Library Management System – Task 3
+
+This is my submission for Task 3 of the Java Developer Internship.
+It’s a simple CLI-based application for managing books and users in a library.
+
+📚 Features
+
+1. Add new books (Title, Author)
+2. Add new users (Name, User ID)
+3. Issue books to users (checks availability)
+4. Return books and update status
+5. View all books with current status (Available / Issued)
+6. Menu-driven console application
+7. Uses Java Classes, ArrayList, Encapsulation, Loops
+
+🛠️ Technologies Used
+
+1. Java (JDK 8 or above)
+2. Scanner for input
+3. ArrayList for storing books and users
+   
+🚀 How to Run
+
+1. Clone or download this repository.
+2. Open a terminal/command prompt in the project folder.
+
+Compile the code:
+javac LibrarySystem.java
+
+Run the program:
+java LibrarySystem
